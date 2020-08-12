@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "categoryId": "1",
+      "name": "Bryce Rempel",
+      "price": "659.00"
+    },
+    {
+      "id": "2",
+      "categoryId": "2",
+      "name": "Branson Reynolds",
+      "price": "498.00"
+    },
+    {
+      "id": "3",
+      "categoryId": "3",
+      "name": "Pedro Jenkins",
+      "price": "200.00"
+    },
+    {
+      "id": "4",
+      "categoryId": "4",
+      "name": "Mercedes Gislason",
+      "price": "812.00"
+    },
+    {
+      "id": "5",
+      "categoryId": "5",
+      "name": "Mrs. Malinda Walker",
+      "price": "718.00"
+    },
+    {
+      "id": "6",
+      "categoryId": "1",
+      "name": "Tressie Dicki",
+      "price": "641.00"
+    },
+    {
+      "id": "7",
+      "categoryId": "2",
+      "name": "Khalid Jerde",
+      "price": "48.00"
+    },
+    {
+      "id": "8",
+      "categoryId": "1",
+      "name": "Joel Mosciski",
+      "price": "325.00"
+    },
+    {
+      "id": "9",
+      "categoryId": "2",
+      "name": "Carlee Renner",
+      "price": "618.00"
+    },
+    {
+      "id": "10",
+      "categoryId": "3",
+      "name": "Dr. Sydnie Rempel",
+      "price": "294.00"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Intelligent"
+    },
+    {
+      "id": "2",
+      "name": "Awesome"
+    },
+    {
+      "id": "3",
+      "name": "Rustic"
+    },
+    {
+      "id": "4",
+      "name": "Fantastic"
+    },
+    {
+      "id": "5",
+      "name": "Unbranded"
+    }
+  ],
+  "posts": [],
+  "users": []
+}
